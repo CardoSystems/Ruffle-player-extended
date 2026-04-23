@@ -12,39 +12,39 @@
     const urlMappings = [
         {
             from: 'https://cdn.nitrome.com/components/NitromeAPI.pkg',
-            to: 'https://cdn.xperia.pt/NitromeAPI.pkg'
+            to: 'https://cdn.cardoso.dpdns.org/NitromeAPI.pkg'
         },
         {
-            from: 'https://jogos.ipv7.pt/txtGDE.swf',
-            to: 'https://cdn.xperia.pt/laserquest/txtGDE.swf'
+            from: 'https://jogos.cardoso.dpdns.org/txtGDE.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/txtGDE.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/faq.swf',
-            to: 'https://cdn.xperia.pt/laserquest/faq.swf'
+            from: 'https://jogos.cardoso.dpdns.org/faq.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/faq.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/hora.swf',
-            to: 'https://cdn.xperia.pt/laserquest/hora.swf'
+            from: 'https://jogos.cardoso.dpdns.org/hora.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/hora.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/nov.swf',
-            to: 'https://cdn.xperia.pt/laserquest/nov.swf'
+            from: 'https://jogos.cardoso.dpdns.org/nov.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/nov.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/jogo.swf',
-            to: 'https://cdn.xperia.pt/laserquest/jogo.swf'
+            from: 'https://jogos.cardoso.dpdns.org/jogo.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/jogo.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/contact.swf',
-            to: 'https://cdn.xperia.pt/laserquest/contact.swf'
+            from: 'https://jogos.cardoso.dpdns.org/contact.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/contact.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/centro.swf',
-            to: 'https://cdn.xperia.pt/laserquest/centro.swf'
+            from: 'https://jogos.cardoso.dpdns.org/centro.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/centro.swf'
         },
         {
-            from: 'https://jogos.ipv7.pt/activ.swf',
-            to: 'https://cdn.xperia.pt/laserquest/activ.swf'
+            from: 'https://jogos.cardoso.dpdns.org/activ.swf',
+            to: 'https://cdn.cardoso.dpdns.org/laserquest/activ.swf'
         }
     ];
 

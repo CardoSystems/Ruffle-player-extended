@@ -271,7 +271,7 @@ function updateInfoPanel(gameId, gamePath, gameName) {
             </div>
             <div class="info-row">
                 <span class="info-label">${_('source')}</span>
-                <span class="info-value">cdn.xperia.pt</span>
+                <span class="info-value">cdn.cardoso.dpdns.org</span>
             </div>
         </div>
         `;
@@ -294,7 +294,7 @@ function updateInfoPanel(gameId, gamePath, gameName) {
         </div>
         <div class="info-row">
             <span class="info-label">${_('source')}</span>
-            <span class="info-value">cdn.xperia.pt</span>
+            <span class="info-value">cdn.cardoso.dpdns.org</span>
         </div>
         <div class="info-row">
             <span class="info-label">${_('publisher')}</span>
@@ -542,7 +542,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         </div>
         <div class="info-row">
             <span class="info-label">${_('source')}</span>
-            <span class="info-value">cdn.xperia.pt</span>
+            <span class="info-value">cdn.cardoso.dpdns.org</span>
         </div>
     `;
     
